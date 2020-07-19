@@ -14,3 +14,4 @@
 - RepositoryPattern
 - Retrofit2
 - Room Persistence
+- Offline Support with Caching
